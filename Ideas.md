@@ -10,13 +10,14 @@ Our poject ideas so far are:
 - [Cli installer redesign](#cli-installer)
 - [Graphical package manager interface](#graphical-package-manager-interface)
 - [Blackman rewrite](#blackman-redesign)
+- [Python 3 Migration](#migrate-tools-to-python-3)
 
 #### Graphical installer
 Create a graphical installer, based on calamares, or similar.
 
 
 #### Cli installer redesign
-Redesign the command line installer with dialog. 
+Redesign the command line installer with dialog.
 If you chose this project you would need some shell scripting skills.
 - add error handling to existing functions
 - add tests to existing functions
@@ -37,3 +38,9 @@ With Blackman you can build BlackArch packages and it's dependencies from source
 - build BlackArch packages from source
 - build BlackArch dependencies from source
 - allow additional repositories to build from source
+
+#### Migrate tools to Python 3
+There are several useful tools, that rely on Python 2 as interpreter.
+As Python 2 reached end of life, we would like to change it.
+If you want to take up this project please name the tool(s) you would like to
+port and provide a time table. Please join our discord or IRC channel.
