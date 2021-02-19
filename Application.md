@@ -48,9 +48,10 @@ What free and/or open source projects have you participated in? Please describe 
 
 * How will you continue with your project within the community after GSoC?
 
-#### Full time program
+#### Time Planing
 
-Google clearly states that Google Summer of Code is a full time program. We expect students to not have other obligations - internships, summer jobs etc. - during the summer and fully dedicate to their GSoC project.
+As GSoC is no longer a full time program, how are you planing to split your time
+over the summer. Show us project planing in your perfect application
 
 #### Expectations during GSoC
 
