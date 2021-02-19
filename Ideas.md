@@ -28,7 +28,7 @@ communication channels.
 
 ## Idea List
 
-- [CLI installer redesign](#cli-installer)
+- [CLI installer redesign](#cli-installer-redesign)
 - [Graphical package manager interface](#graphical-package-manager-interface)
 - [Blackman rewrite](#blackman-redesign)
 - [Python 3 Migration](#migrate-tools-to-python-3)
