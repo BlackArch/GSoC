@@ -3,7 +3,7 @@ This Application document is based on Freifunks applications page
 https://wiki.freifunk.net/Student_Check_List
 -->
 
-Please send in applications for Google Summer of Code via the [GSoc](https://summerofcode.withgoogle.com/get-started/) website.
+Please send in applications for Google Summer of Code via the [GSoC](https://summerofcode.withgoogle.com/get-started/) website.
 
 ### GSoC Application Check List
 
