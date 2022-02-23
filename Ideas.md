@@ -3,7 +3,7 @@ This document has sections taken directly from Fedora's Idea Page
 https://docs.fedoraproject.org/en-US/mentored-projects/gsoc/2020/ideas/
 -->
 
-# Google Summer of Code (GSoC) 2021 - BlackArch Linux
+# Google Summer of Code (GSoC) 2022 - BlackArch Linux
 
 This page contains information on BlackArch’s participation in Google Summer of Code (GSoC). 
 Feel free to contact us for clarifications and more information.
@@ -18,11 +18,11 @@ You can reach out to us via [email](mailto:team@blackarch.org),
 ## What can I do today?
 BlackArch is still in the process of applying to be a mentoring organization. 
 While we wait for a response from Google OSPO, please read the 
-[GSoC Student Guide](https://google.github.io/gsocguides/student/)
+[GSoC Contributor Guide](https://google.github.io/gsocguides/student/)
 
 ## Project Ideas
 
-If you are a student looking forward to participating in Google Summer of Code with BlackArch,
+If you are a contributor looking forward to participating in Google Summer of Code with BlackArch,
 please browse this idea list.
 __Note that there may be additional ideas added during the application period.__
 
@@ -113,8 +113,8 @@ TBD
 ### Migrate tools to Python 3
 
 * **Difficulty**  : Intermediate
-* **Technology**  : _TBD_
-* **Mentor(s)**   : _TBD_
+* **Technology**  : Python
+* **Mentor(s)**   : ikstream
 
 #### Description
 
@@ -133,7 +133,7 @@ TBD
 ### Create WSL BlackArch package
 
 * **Difficulty**  : Intermediate
-* **Technology**  : _TBD_
+* **Technology**  : WSL, Windows
 * **Mentor(s)**   : _TBD_
 
 #### Description
@@ -151,7 +151,7 @@ TBD
 ### Create Qubes OS Template
 
 * **Difficulty**  : Intermediate
-* **Technology**  : _TBD_
+* **Technology**  : Qubes OS
 * **Mentor(s)**   : _TBD_
 
 #### Description
@@ -168,7 +168,7 @@ TBD
 ### Blackarch Tool documentation
 
 * **Difficulty**  : Intermediate
-* **Technology**  : _TBD_
+* **Technology**  : Latex, Wiki, Markdown
 * **Mentor(s)**   : _TBD_
 
 #### Description
