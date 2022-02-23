@@ -68,8 +68,8 @@ We expect full dedication of students from the beginning of the program and will
 
 #### Passing/Failure of Students
 
-Google Summer of Code has strict timelines. It is a coding program and students are expected to contribute code to projects within the timeframe of the program. We understand that around the world there are obligations in university and everyone has a life and that things can happens in ones personal life. In this online coding program, however, we have only limited possibilities to divert from the timeline and we will have to fail students, who cannot fulfill the programs obligations for whatever reason, even if there are issues out of the responsibility of students. Should this be the case students always have the chance to apply again a year later as well.
-We will fail students who are not meeting the expectations immediately in the first term without exceptions.
+Google Summer of Code has strict timelines. It is a coding program and contributors are expected to provide code to projects within the timeframe of the program. We understand that around the world there are obligations in university and everyone has a life and that things can happens in ones personal life. In this online coding program, however, we have only limited possibilities to divert from the timeline and we will have to fail people, who cannot fulfill the programs obligations for whatever reason, even if there are issues out of the responsibility of the contributor. Should this be the case contributors always have the chance to apply again a year later as well.
 
 
-This Application document is based on [Freifunks applications page](https://wiki.freifunk.net/Student_Check_List), which was a great help in creating this, for our first GSoC application as organisation.
+
+This Application document is based on [Freifunks applications page](https://wiki.freifunk.net/Student_Check_List), which was a great help in creating this.
