@@ -10,7 +10,7 @@ Feel free to contact us for clarifications and more information.
 
 
 You can reach out to us via [email](mailto:team@blackarch.org), 
-[IRC](https://webchat.freenode.net/#blackarch) or [Discord](https://discord.gg/xMHt8dW).
+ or [Matrix](https://matrix.to/#/#BlackArch:matrix.org).
 
 > If you have an idea for BlackArch Linux you would like to introduce, 
 > please open a pull request and discuss it with us.
