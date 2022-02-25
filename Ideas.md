@@ -125,6 +125,7 @@ With Blackman you can build BlackArch packages and it's dependencies from source
 
 - Documentation (in code as well as Readme)
 - build BlackArch Packages, no dependencies
+
 **350h:**
 - build dependencies
 - build additional repositories
@@ -202,9 +203,11 @@ Currently BlackArch provides a guide on how to get started, but none for the ind
 Therefore it would be up to you to extract the instructions on how to use each tool from the projects side and make them available in Markdown as well as on our website. Your software should be designed in a way, that it can handle most new packages without problems as well.
 
 #### Deliverables
+
 **175h:**
 - evaluate possible solutions for offline tool documentation database
 - implement selected solution based on community feedback for a subset of tools
+
 **350h:**
 - implement automation for tool documentation (git repo based tools) 
 
