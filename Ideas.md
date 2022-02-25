@@ -34,7 +34,7 @@ communication channels.
 The following contributors are available to provide general help and support for the GSoC program.
 If a specific project mentor is busy, you can contact one of the people below for short-term help on your project or task. 
 
-> Mentors are listed by their respective usernames on [our Discord](https://discord.gg/xMHt8dW).
+> Mentors are listed by their respective usernames on [Matrix](https://matrix.to/#/#BlackArch:matrix.org).
 
 * ikstream _(Org Admin)_
 * pwnfoo _(Org Admin)_
@@ -56,7 +56,8 @@ If a specific project mentor is busy, you can contact one of the people below fo
 
 * **Difficulty**  : Intermediate
 * **Technology**  : Linux, Bash, Scripting
-* **Mentor(s)**   : _TBD_
+* **Mentor(s)**   : @ikstream/@noptrix
+* **Project Size**: 350h
 
 #### Description
 
@@ -71,6 +72,7 @@ Overall, goal of this project is to improve the usability, user experience and f
 
 As a GSoC intern, you will be responsible for:
 - Gathering community feedback on CLI installer
+- Add logging feature to keep track of user decisions during install
 - Enhancing the overall 'look and feel' of the CLI installer
 - Adding additional tests, checks and error recovery mechanisms
 - Implemeting dialog interface
@@ -80,20 +82,33 @@ As a GSoC intern, you will be responsible for:
 
 ### Graphical package manager interface
 
+* **Difficulty**  : Easy
+* **Technology**  : Python/Rust/Go it's basically your choice
+* **Mentor(s)**   : @pownfoo
+* **Project Size**: 350h
+
 #### Description
 
 If you decide to take this project, you would be responsible to create a graphical interface for Blackarch repositories.
 - allow installation of tools from graphical front end
-- allow installation from command line
 - allow additional repositories to be added
 
 #### Deliverables
 
-TBD
+- provide a graphical pacman front-end
+- allow pacman config changes
+- allow additional repositories
+- provide logs of updated packages/versions
+
 
 ---
 
 ### Blackman redesign
+
+* **Difficulty**  : Intermediate
+* **Technology**  : Python/Rust/Go it's basically your choice
+* **Mentor(s)**   : @ikstream/@pownfoo
+* **Project Size**: 175h/350h
 
 #### Description
 
@@ -108,13 +123,18 @@ With Blackman you can build BlackArch packages and it's dependencies from source
 
 #### Deliverables
 
-TBD
+- Documentation (in code as well as Readme)
+- build BlackArch Packages, no dependencies
+**350h:**
+- build dependencies
+- build additional repositories
 
 ### Migrate tools to Python 3
 
 * **Difficulty**  : Intermediate
 * **Technology**  : Python
-* **Mentor(s)**   : ikstream
+* **Mentor(s)**   : @ikstream/@pownfoo/@noptrix
+* **Project Size**: 175h/350h depending on number/size of tool
 
 #### Description
 
@@ -126,7 +146,8 @@ further discussion prior.
 
 #### Deliverables
 
-TBD
+- depending on the selected tools and time 5-10 transferred tools
+- updated documentation
 
 ---
 
@@ -134,7 +155,8 @@ TBD
 
 * **Difficulty**  : Intermediate
 * **Technology**  : WSL, Windows
-* **Mentor(s)**   : _TBD_
+* **Mentor(s)**   : @ikstream
+* **Project Size**: 175h
 
 #### Description
 
@@ -144,7 +166,9 @@ Therefore you would need to create the base structure with automation for update
 
 #### Deliverables
 
-TBD
+- Documentation on the build and usage process
+- Build automation
+- WSL template
 
 ---
 
@@ -169,7 +193,8 @@ TBD
 
 * **Difficulty**  : Intermediate
 * **Technology**  : Latex, Wiki, Markdown
-* **Mentor(s)**   : _TBD_
+* **Mentor(s)**   : @ikstream
+* **Project Size**: 175h/350h
 
 #### Description
 
@@ -177,16 +202,21 @@ Currently BlackArch provides a guide on how to get started, but none for the ind
 Therefore it would be up to you to extract the instructions on how to use each tool from the projects side and make them available in Markdown as well as on our website. Your software should be designed in a way, that it can handle most new packages without problems as well.
 
 #### Deliverables
+**175h:**
+- evaluate possible solutions for offline tool documentation database
+- implement selected solution based on community feedback for a subset of tools
+**350h:**
+- implement automation for tool documentation (git repo based tools) 
 
-TBD
 
 ---
 
 ### Search Tool for BlackArch packages
 
 * **Difficulty**  : Intermediate
-* **Technology**  : Linux, Bash, Scripting
-* **Mentor(s)**   : _TBD_
+* **Technology**  : Linux, Bash, Scripting, JavaScript
+* **Mentor(s)**   : @noptrix
+* **Project Size**: 175h
 
 #### Description
 
@@ -196,7 +226,9 @@ In addition these tools should show the version available online and available i
 
 #### Deliverables
 
-TBD
+- improve the existing online tool to work with keywords as well
+- add a command line tool with tools related to certain keywords
+- provide an interface to work with tool documentation
 
 ---
 
